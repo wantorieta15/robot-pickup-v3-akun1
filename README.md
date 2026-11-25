@@ -1,8 +1,8 @@
 # The Robot Pickup Line Championship — v3 (Akun 1)
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/c/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
-[![make.fun — competition](https://make.fun/c/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/badge.svg)](https://make.fun/c/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
-[![make.fun — live](https://make.fun/live.svg)](https://make.fun)
+[![make.fun](https://make.fun/badge/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b.svg)](https://make.fun/competitions/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
+[![rank](https://make.fun/badge/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/walta-exchange/robot-pickup-v3-akun1/rank.svg)](https://make.fun/competitions/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
+[![reward](https://make.fun/badge/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/walta-exchange/robot-pickup-v3-akun1/reward.svg)](https://make.fun/competitions/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
 
 Entry for the Make Fun bounty **The Robot Pickup Line Championship**
 (`u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b`), Akun 1
